@@ -79,7 +79,7 @@ Because verbs are easier to learn when you’re dodging animated soap.
 ## 📫 Let's Connect
 
 - 🐦 Twitter: [@dzakyfhadafi_](https://twitter.com/dzakyfhadafi_)  
-- 📧 Email: dzackylucifer12345[at]gmail.com  
+- 📧 Email: dzackylucifer12345@gmail.com  
 
 > *“In code we trust. In games we escape.”*
 
