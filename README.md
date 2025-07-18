@@ -42,6 +42,29 @@ Because verbs are easier to learn when you’re dodging animated soap.
 🔐 **Self-hosted Backend Stack**  
 > Auth flows with Laravel Sanctum, Dockerized APIs, CORS wrangling, and Nginx magic. If it involves SSL and terminal errors, I’m in.
 
+⚔️ **Dual-Faction Deck Combat Engine**  
+> Designed for multiplayer card battles — 2v2 format, asymmetric decks, and factional advantages.  
+For those who believe card games should feel like political warfare.
+
+🧩 **EduCard Framework**  
+> A modular card system for learning-based games — drag-and-drop subjects, themes, and questions to auto-generate decks.  
+Built for classrooms, powered by code, secretly fun.
+
+🌐 **Vue + Laravel Admin Panel Starter**  
+> A lightweight, scalable backend panel using Laravel + Sanctum auth, Vue 3 + Vite frontend, and role-based API structure.  
+Because every API deserves a nice dashboard (and a logout button that works).
+
+🐳 **Docker-Devbox Template**  
+> My go-to dev environment stack: Laravel, MySQL, Node, Nginx, with hot-reloading and HTTPS all in containers.  
+Plug-and-play for launching new projects (or breaking them in style).
+
+🕹️ **System Health Dashboard (WIP)**  
+> A personal dashboard showing your container status, server health, and exposed ports — because `docker ps` is cool but vibes aren’t.
+
+🧠 **.NET Identity + BCrypt Auth API**  
+> A secure, token-based user authentication system built with ASP.NET Core and BCrypt.Net — with full JWT flow and proper hashing.  
+Ideal for anyone tired of spaghetti login logic.
+
 ---
 
 ## 💡 My Dev Philosophy
