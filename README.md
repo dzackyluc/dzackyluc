@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Dzaky Fachri
+# 👋 Hi, I'm Dzaky Fachri Hadafi
 
 🚀 Full-Stack Problem Solver • 🧠 Game Mechanic Crafter • 🐧 Linux-Wrangling Dev
 
